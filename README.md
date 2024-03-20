@@ -9,6 +9,4 @@ This is the sample video of my first game is like ..
 
 Thanks for the free assets:https://github.com/samuelcust/flappy-bird-assets
 
-If you want to try playing the simple prototype,
-
-click on : https://github.com/sristtii/Flappy-Bird-Clone/raw/main/Flappy%20Bird%20Clone.exe
+If you want to try playing the simple prototype,make sure you download the zip extract it and click on the application.
