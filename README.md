@@ -8,3 +8,4 @@ https://github.com/sristtii/Flappy-Bird-Clone/assets/164138706/a3b3790e-5323-45f
 This is the sample video of my first game is like ..
 
 Thanks for the free assets:https://github.com/samuelcust/flappy-bird-assets
+if you want to try playing the simple prototype click on :https://github.com/sristtii/Flappy-Bird-Clone/raw/main/Flappy%20Bird%20Clone.exe
